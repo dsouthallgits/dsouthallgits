@@ -2,7 +2,7 @@
  
  Target Role: SOC Analyst 
  
- Education: UMGC B.S. in Cybersecurity Technology | GPA: 3.9
+ Education: Bachelors in Cybersecurity Technology from UMGC | GPA: 3.9
 
     # Bio
   
