@@ -1,6 +1,8 @@
- Damien Southall |
+ Damien Southall
  
- Current Target: SOC Analyst | UMGC Cybersecurity Technology | GPA: 3.9
+ Target Role: SOC Analyst 
+ 
+ Education: UMGC B.S. in Cybersecurity Technology | GPA: 3.9
 
     # Bio
   
