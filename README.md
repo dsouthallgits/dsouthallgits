@@ -48,8 +48,7 @@
   identifying indicators of compromise (IOCs), and designing public-private collaborative sharing frameworks.
 
     # Connect With Me
-  * Email: info.dsouthall@gmail.com
+  * Email: work.southall@gmail.com
     * GitHub: github.com/dsouthallgits
-    * LinkedIn: linkedin.com/in/damien-southall
 
     Last Updated: July 15, 2026
